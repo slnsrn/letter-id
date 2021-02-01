@@ -1,0 +1,14 @@
+{
+  "name": "letter-id",
+  "version": "1.0.12",
+  "description": "Creates letter or word based ids",
+  "license": "MIT",
+  "repository": "@slnsrn/letter-id",
+  "main": "src/index.js",
+  "author": "slnsrn@gmail.com",
+  "keywords": [
+    "id",
+    "letterid",
+    "url"
+  ]
+}
