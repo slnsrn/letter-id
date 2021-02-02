@@ -1,7 +1,7 @@
 {
   "name": "letter-id",
-  "version": "1.0.12",
-  "description": "Creates letter or word based ids",
+  "version": "1.1.1",
+  "description": "Creates letter or word based ids or urls",
   "license": "MIT",
   "repository": "@slnsrn/letter-id",
   "main": "src/index.js",
@@ -9,6 +9,7 @@
   "keywords": [
     "id",
     "letterid",
-    "url"
+    "url",
+    "create url"
   ]
 }
