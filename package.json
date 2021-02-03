@@ -1,9 +1,12 @@
 {
   "name": "letter-id",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Creates letter or word based ids or urls",
   "license": "MIT",
-  "repository": "@slnsrn/letter-id",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slnsrn/letter-id.git"
+  },
   "main": "src/index.js",
   "author": "slnsrn@gmail.com",
   "keywords": [
